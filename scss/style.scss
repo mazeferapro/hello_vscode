@@ -1,0 +1,17 @@
+body {
+    font-size: 20px;
+    div {
+        font-size: 10px;
+    }
+}
+
+.block {
+
+    &__item {
+        font-size: 10px;
+    }
+
+    &__ {
+        font-size: 24px;
+    }
+}
